@@ -71,4 +71,3 @@ make package/luci-app-mentohust/compile V=99
 ```
  [openwrt-sdk]: https://wiki.openwrt.org/doc/howto/obtain.firmware.sdk
  [uci]: https://wiki.openwrt.org/doc/uci
- 

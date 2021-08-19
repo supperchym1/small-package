@@ -83,4 +83,4 @@ define Package/luci-app-tencentddns/install
 	$(INSTALL_BIN) ./files/root/etc/tencentddnsupload $(1)/etc/tencentddnsupload
 endef
 
-$(eval $(call BuildPackage,luci-app-tencentddns)) 
+$(eval $(call BuildPackage,luci-app-tencentddns))

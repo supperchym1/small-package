@@ -30,4 +30,3 @@
 		-*- eqos................... Easy QoS(Support speed limit based on IP address)
 	
 	make package/eqos/compile V=s
- 
